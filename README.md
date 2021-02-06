@@ -6,6 +6,7 @@ Have you been looking around like i was for a Presto SQL compatible driver that 
 When using remember to Set both the properties below to true
 
 SSLAllowSelfSignedCert
+
 SSL
 
 Please find a compiled driver here within Github. Enjoy
