@@ -18,6 +18,7 @@ Their is also another driver uploaded PRESTO-DELIVERBI-JDBC-SSL . This driver ha
 Add 2 variables for SSL and unsigned certificates etc.
 
 SSL = true
+
 SSLVerification = NONE
 
 When you setup Driver in dbeaver , after setting up connection and connecting once to dbeaver . Just restart Dbeaver once for driver to initialise
