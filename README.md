@@ -11,4 +11,15 @@ SSL
 
 Please find a compiled driver here within Github. Enjoy
 
+
+Their is also another driver uploaded PRESTO-DELIVERBI-JDBC-SSL . This driver has bug fixes for DBEAVER . Metadata is now loaded alot quicker over SSL . 
+
+Add 2 variables
+
+SSL = true
+SSLVerification = NONE
+
+When you setup Driver in dbeaver , after setting up connection and connecting once to dbeaver . Just restart Dbeaver once for driver to initialise
+
+
 DELIVERBI team.
