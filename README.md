@@ -11,7 +11,7 @@ SSL
 
 Please find a compiled driver here within Github. Enjoy
 
-
+************************2020/02/25 Update ****************************************************8
 Their is also another driver uploaded PRESTO-DELIVERBI-JDBC-SSL . This driver has bug fixes for DBEAVER . Metadata is now loaded alot quicker over SSL . 
 
 Add 2 variables
